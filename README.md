@@ -1,6 +1,7 @@
 # MusicalKeyboard
 A code that enable the user to play songs using just a computer keyboard!
 The keys A, S, D, F, G H, I are used as C, D, E, F, G, A and B, respectively. 
+(The code was based on a Brazilian user, so the notes and instructions were writen in portuguese)
 
 The frequencies are in Hertz:
 
