@@ -1,16 +1,23 @@
+Aqui está um exemplo de README para o seu projeto "MusicalKeyboard":
+
+---
+
 # MusicalKeyboard
-A code that enable the user to play songs using just a computer keyboard!
-The keys A, S, D, F, G H, I are used as C, D, E, F, G, A and B, respectively. 
-(The code was based on a Brazilian user, so the notes and instructions were writen in portuguese)
 
-The frequencies are in Hertz:
+**MusicalKeyboard** é um código que permite ao usuário tocar músicas usando apenas o teclado do computador. As teclas A, S, D, F, G, H e I são mapeadas para as notas C, D, E, F, G, A e B, respectivamente.
 
-C: 523 Htz
-D: 587 Htz
-E: 659 Htz
-F: 698 Htz
-G: 784 Htz
-A: 880 Htz
-B: 971 Htz
+## Frequências das Notas
 
-To play the user just need to press the keys on their keyboard according to the notes.
+As frequências das notas em Hertz são as seguintes:
+
+- **C:** 523 Hz
+- **D:** 587 Hz
+- **E:** 659 Hz
+- **F:** 698 Hz
+- **G:** 784 Hz
+- **A:** 880 Hz
+- **B:** 971 Hz
+
+## Como Tocar
+
+Para tocar uma música, basta pressionar as teclas no teclado do seu computador de acordo com as notas desejadas.
