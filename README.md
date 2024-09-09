@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu projeto "MusicalKeyboard":
-
----
-
 # MusicalKeyboard
 
 **MusicalKeyboard** é um código que permite ao usuário tocar músicas usando apenas o teclado do computador. As teclas A, S, D, F, G, H e I são mapeadas para as notas C, D, E, F, G, A e B, respectivamente.
